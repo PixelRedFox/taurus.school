@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 160.10666 160.10666"
+   height="160.10666mm"
+   width="160.10666mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-86.067208,-47.42435)"
+     id="layer1">
+    <g
+       id="g4557">
+      <rect
+         ry="7.6427822"
+         y="148.94102"
+         x="-31.339634"
+         height="117.32852"
+         width="117.32852"
+         id="rect828"
+         style="opacity:1;stroke-linejoin:miter;vector-effect:none;stroke-opacity:1;fill-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:0.132501317206;fill:#ffffff"
+         transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)" />
+      <rect
+         ry="7.2456598"
+         y="151.98924"
+         x="-28.291414"
+         height="111.23208"
+         width="111.23208"
+         id="rect828-4"
+         style="opacity:1;stroke-linejoin:miter;vector-effect:none;stroke-opacity:1;fill-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.99999938;fill:none"
+         transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)" />
+      <rect
+         ry="4.9272099"
+         y="169.78514"
+         x="-10.495522"
+         height="75.640289"
+         width="75.640289"
+         id="rect828-5"
+         style="opacity:1;stroke-linejoin:miter;vector-effect:none;stroke-opacity:1;fill-opacity:1;stroke-dashoffset:0;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.99999938;fill:#fff500"
+         transform="matrix(0.707107,-0.707107,0.707107,0.707107,0.000000,0.000000)" />
+    </g>
+  </g>
+</svg>
